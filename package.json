@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@lordicon/element": "^3.0.2"
+    "@lordicon/element": "^3.0.2",
+    "@vercel/analytics": "^2.0.1"
   }
 }
